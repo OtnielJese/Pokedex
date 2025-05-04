@@ -180,16 +180,13 @@ header form {
 /* types of pokemon*/
 
 .grass {
-  background-color: var(--color-grass)
+  background-color: var(--color-grass);
 }
 
 .fire {
-background-color: var(--color-fire);
-
+  background-color: var(--color-fire);
 }
 
 .poison {
-background-color: var(--color-poison);
-
+  background-color: var(--color-poison);
 }
-
